@@ -1,4 +1,4 @@
-# 🔪 Hi, I'm Ameer Joy
+# 🍎 Hi, I'm Ameer Joy
 
 Welcome to my GitHub profile! I'm Ameer Joy, a passionate and versatile developer with interests that span across all fields, including web development, Android development, and everything in between. 🚀
 
